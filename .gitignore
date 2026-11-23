@@ -1,0 +1,11 @@
+# Raw data and binary archives
+data/
+*.h5
+*.hdf5
+*.pkl
+*.csv
+
+# Python caches
+__pycache__/
+.venv/
+.ipynb_checkpoints/
